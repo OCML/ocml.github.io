@@ -3,7 +3,7 @@ layout: post
 title:  "2017-2018-02假期机器学习实训分享"
 categories: JavaScript
 tags:  实训 机器学习 
-author: 陈权、何强
+author: 何强
 ---
 
 * content
