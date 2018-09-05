@@ -20,6 +20,4 @@ type: page
 
 [西南财经大学天府学院](https://tfswufe.edu.cn/) \| [智能科技学院](https://tech.tfswufe.edu.cn/) 
 
-## Comments
 
-{% include comments.html %}
