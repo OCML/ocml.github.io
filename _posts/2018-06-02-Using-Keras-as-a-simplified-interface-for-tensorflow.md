@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 将Keras作为tensorflow的精简接口
-categories: [Keras,TensorFlow]
-description: 将Keras作为tensorflow的精简接口
-header-mask:  0.3
-tags: 
-    - Keras
-    - TensorFlow
+title:  "将Keras作为tensorflow的精简接口"
+categories: tensorflow
+tags:  Keras tensorflow 
+author: 陈权
 ---
+
+* content
+{:toc}
+
 >本文地址：[https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 
 >本文作者：Francois Chollet
