@@ -82,6 +82,9 @@ layout: default
                     {% if hasSimilar.size > 0 %}
                     <li><a href="#similar_posts">Similar Posts</a></li>
                     {% endif %}
+                    {% if hasSimilar.size == 0 %}
+                    <li>无目录</li>
+                    {% endif %}
                     
                 </ul>
             </div>
